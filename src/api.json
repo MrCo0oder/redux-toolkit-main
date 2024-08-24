@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "template_name": "Simple Icon Illustrated Inspirational Book Cover Template",
+        "url": "/templates/p/SICLtKEGZr-simple-icon-illustrated-inspirational-book-cover-template",
+        "dimensions": "1410 x 2250 px",
+        "thumbnail_image": "/templates/_next/image?url=https%3A%2F%2Fstatic.picmaker.com%2Fscene-prebuilts%2Fthumbnails%2Ff327f0f1-e8eb-4077-a13c-f3475e4782e6.png&w=3840&q=75",
+        "author_name": "Emily Johnson",
+        "color": "#FF5733"
+    },
+    {
+        "id": 2,
+        "template_name": "Green Vegetables Illustrated Book Cover Template",
+        "url": "/templates/p/SIxAMI5nAh-green-vegetables-illustrated-book-cover-template",
+        "dimensions": "1410 x 2250 px",
+        "thumbnail_image": "/templates/_next/image?url=https%3A%2F%2Fstatic.picmaker.com%2Fscene-prebuilts%2Fthumbnails%2F67d2bc32-18b7-4255-8474-dea31ffa6dbe.png&w=3840&q=75",
+        "author_name": "John Smith",
+        "color": "#33FF57"
+    },
+    {
+        "id": 3,
+        "template_name": "The Honest Shoesmith Book Cover Template",
+        "url": "/templates/p/SItKaXilaW-the-honest-shoesmith-book-cover-template",
+        "dimensions": "1410 x 2250 px",
+        "thumbnail_image": "/templates/_next/image?url=https%3A%2F%2Fstatic.picmaker.com%2Fscene-prebuilts%2Fthumbnails%2F44909234-658e-4d9b-bb30-30f2b3739474.png&w=3840&q=75",
+        "author_name": "Sarah Williams",
+        "color": "#3357FF"
+    },
+    {
+        "id": 4,
+        "template_name": "Black Red and Chess Illustrated Inspirational Book Cover Template",
+        "url": "/templates/p/SIR2N2Yt3S-black-red-and-chess-illustrated-inspirational--book-cover-template",
+        "dimensions": "1410 x 2250 px",
+        "thumbnail_image": "/templates/_next/image?url=https%3A%2F%2Fstatic.picmaker.com%2Fscene-prebuilts%2Fthumbnails%2F9bc25844-f691-45df-9867-05c64a2f7633.png&w=3840&q=75",
+        "author_name": "David Brown",
+        "color": "#FF33A1"
+    },
+    {
+        "id": 5,
+        "template_name": "The Art Of Slow Cooking Book Cover Template",
+        "url": "/templates/p/SI05iAnR70-the-art-of-slow-cooking-book-cover-template",
+        "dimensions": "1410 x 2250 px",
+        "thumbnail_image": "/templates/_next/image?url=https%3A%2F%2Fstatic.picmaker.com%2Fscene-prebuilts%2Fthumbnails%2F0540043b-b85c-4a32-9d09-484ce7353ebd.png&w=3840&q=75",
+        "author_name": "Jessica Miller",
+        "color": "#FF8C33"
+    },
+    {
+        "id": 6,
+        "template_name": "Adam's Journey To The Sun Travel Book Cover Template",
+        "url": "/templates/p/SIXB9eYzOQ-adams-journey-to-the-sun-travel-book-cover-template",
+        "dimensions": "1410 x 2250 px",
+        "thumbnail_image": "/templates/_next/image?url=https%3A%2F%2Fstatic.picmaker.com%2Fscene-prebuilts%2Fthumbnails%2F870e0d14-7658-40ba-8c97-2e924994d17b.png&w=3840&q=75",
+        "author_name": "Michael Davis",
+        "color": "#33FFC3"
+    }
+]
